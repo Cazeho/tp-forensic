@@ -2,9 +2,7 @@
 
 # Define an associative array of download links and descriptions
 declare -A download_links=(
-  ["https://example.com/file1.zip"]="File 1 (ZIP format)"
-  ["https://example.com/file2.tar.gz"]="File 2 (Tar Gzip format)"
-  ["https://cnam-my.sharepoint.com/personal/jessie_bertanier_lecnam_net/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fjessie%5Fbertanier%5Flecnam%5Fnet%2FDocuments%2FSCENAR%2Egz"]="Autopsy_dump"
+  ["https://cnam-my.sharepoint.com/personal/jessie_bertanier_lecnam_net/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fjessie%5Fbertanier%5Flecnam%5Fnet%2FDocuments%2FSCENAR%2Egz"]="Autopsy_dump :"
 )
 
 # Prompt the user to select a download link
